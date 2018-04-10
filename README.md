@@ -52,4 +52,4 @@ npm run build
 
 ## Demo
 
-[点击预览](http://vuejs-templates.github.io/webpack/)
+[点击预览](https://lquan529.github.io/vue-city-picker/dist/)
