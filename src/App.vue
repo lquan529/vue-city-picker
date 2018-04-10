@@ -159,7 +159,7 @@ export default {
   margin-top: 3%;
 }
 .logo {
-  width: 50px;
+  width: 34px;
 }
 .center {
   display: inline-block;
