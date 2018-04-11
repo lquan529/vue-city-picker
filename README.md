@@ -39,7 +39,7 @@ npm run build
 ``` html
 定义默认城市，二级城市
 
-<city-picker :default-city="北京市, 北京市, 东城区" :level="2"></city-picker>
+<city-picker :default-city="广东省, 广州市" :level="2"></city-picker>
 
 开启简写城市，三级城市
 
